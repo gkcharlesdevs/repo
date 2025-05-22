@@ -1,6 +1,7 @@
 package main
 
+import "fmt"
 
-func main(){
-  fmt.Println("repo")
+func main() {
+	fmt.Println("repo")
 }
