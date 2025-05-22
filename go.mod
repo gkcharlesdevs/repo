@@ -1,3 +1,3 @@
-module github.com/gkcharlesdevs/test_repo_one
+module github.com/gkcharlesdevs/repo
 
 go 1.24.3
